@@ -121,3 +121,10 @@ footer ul li a {
     margin: 10px;
     color: black;
 }
+
+@media screen {
+    html{
+        display:grid;
+        grid-template-columns: auto;
+    }
+}
